@@ -34,25 +34,6 @@ Built using Streamlit to offer a clean and user-friendly interface.
 
 ✅ JSON for managing intents data
 
-📚 How to Use
-
-Clone the repository:
-
-git clone https://github.com/yourusername/chatbot-nlp.git
-
-Navigate to the project directory:
-
-cd chatbot-nlp
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the chatbot application:
-
-streamlit run app.py
-
-Start chatting with your NLP-based chatbot! ✨
 
 🌟 Project Highlights
 
@@ -86,7 +67,7 @@ This project was built using tools and libraries provided by:
 
 🔗 Connect with Me:
 
-🔍 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/siddhant-thakur-b3b236261/)
+🔍 LinkedIn: (https://www.linkedin.com/in/siddhant-thakur-b3b236261/)
 
 👨‍💻 GitHub:https://github.com/Siddhantthakur132
 
